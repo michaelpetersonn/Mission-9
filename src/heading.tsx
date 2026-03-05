@@ -6,5 +6,5 @@ function Heading() {
     </header>
   )
 }
-
+// This is how we set the heading for when a user lands on their website.
 export default Heading

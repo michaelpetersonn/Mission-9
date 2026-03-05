@@ -1,6 +1,6 @@
 import Card from './card'
 import teamData from './CollegeBasketballTeams.json'
-
+// This code loops through the team list and we are able to see the specific information for each school 
 type Team = {
   tid: number
   school: string
